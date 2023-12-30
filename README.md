@@ -39,16 +39,22 @@ This Discord bot monitors and reports various metrics related to a Bitaxe API.
 
 1. Clone the repository: `git clone https://github.com/your-username/bitaxe-discord-bot.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Configure the bot token in `config.ini`.
-4. Run the bot: `python bot.py`
-
-## Configuration
-
-- Bot token and other settings can be configured in `config.ini`.
+3. Set up your own private discord server.
+4. Create a Discord bot and grab its token.
+5. Configure the bot token and database location in `config.ini`.
+6. Configure the url/ip of your Bitaxe and the datafile path in `datarecorder.py`
+7. Set the data recorder in a task manager to run every minute: `datarecorder.py`
+8. Configure the config.ini path and logo path in `bitaxediscordbot.py`.
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+## Disclaimer: I'm a Noob and Learning as I Go
+
+Hey there! 👋 I just want to make it clear that I'm a total noob in the coding world, and this repository is a result of my journey in learning and experimenting. The code you'll find here might be messy, unconventional, or even downright confusing. I'm still figuring things out, and this project is my playground to explore and understand.
+
+If you're an experienced coder stumbling upon this, please bear with me! I'm open to constructive feedback and eager to learn. Feel free to point out better ways of doing things or suggest improvements. We're all in this together, and I appreciate any guidance you can provide.
 
 ## License
 
