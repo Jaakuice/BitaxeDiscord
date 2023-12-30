@@ -1,0 +1,7 @@
+discord.py
+matplotlib
+numpy
+python-dotenv
+requests
+watchdog
+python-dateutil
