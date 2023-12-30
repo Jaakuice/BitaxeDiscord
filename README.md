@@ -1,6 +1,6 @@
 # Bitaxe Discord Bot
 
-This Discord bot monitors and reports various metrics related to a Bitaxe API.
+This Discord bot monitors and reports various metrics related to a Bitaxe API. For best results the data recorder will have to run on a system with 24/7 uptime.
 ![Hashrates](https://github.com/Jaakuice/BitaxeDiscord/blob/main/images/hash.png?raw=true)
 ![Hashrates](https://github.com/Jaakuice/BitaxeDiscord/blob/main/images/plot.png?raw=true)
 
