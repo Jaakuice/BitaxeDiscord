@@ -1,6 +1,7 @@
 #Pictures
 
 - **Latest Entry**: Get information about the latest entry in the data file.
+  
   ![Latest Entry](https://github.com/Jaakuice/BitaxeDiscord/blob/main/images/latest.png?raw=true)
 
 - **File Size**: Check the current size of the data file and perform pruning if necessary.
@@ -9,8 +10,11 @@
 - **Best Difficulty**: Get the current Best Difficulty value.
   ![Best Difficulty](https://github.com/Jaakuice/BitaxeDiscord/blob/main/images/newbest.png?raw=true)
 
-- **Average Hashrates**: Calculate and display average hashrates over various timeframes.
+- **Average Hashrates**: Calculates and displays *average hashrates* over various timeframes using available data.
+    Missing data is not included in the calculations.
   ![Average Hashrates](https://github.com/Jaakuice/BitaxeDiscord/blob/main/images/average.png?raw=true)
+
+- **Hash Average**: Displays the *total hashrate* based on available data. Assumes all missing data to be zero.
 
 - **Hashrate Plot**: Generate and display a plot of hashrate over time with user-specified timeframe and smoothing.
 
