@@ -7,9 +7,6 @@
 - **File Size**: Check the current size of the data file and perform pruning if necessary.
   ![File Size](https://github.com/Jaakuice/BitaxeDiscord/blob/main/images/file_size.png?raw=true)
  
-- **Best Difficulty**: Get the current Best Difficulty value.
-  ![Best Difficulty](https://github.com/Jaakuice/BitaxeDiscord/blob/main/images/newbest.png?raw=true)
-
 - **Average Hashrates**: Calculates and displays *average hashrates* over various timeframes using available data.
     Missing data is not included in the calculations.
   ![Average Hashrates](https://github.com/Jaakuice/BitaxeDiscord/blob/main/images/average.png?raw=true)
@@ -23,3 +20,4 @@
   ![Temperature](https://github.com/Jaakuice/BitaxeDiscord/blob/main/images/temp.png?raw=true)
   ![Fan Speed](https://github.com/Jaakuice/BitaxeDiscord/blob/main/images/fanspeed.png?raw=true)
   ![rejected](https://github.com/Jaakuice/BitaxeDiscord/blob/main/images/rejectedshares.png?raw=true)
+  ![Best Difficulty](https://github.com/Jaakuice/BitaxeDiscord/blob/main/images/newbest.png?raw=true)
